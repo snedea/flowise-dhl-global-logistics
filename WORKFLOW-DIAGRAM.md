@@ -3,7 +3,7 @@
 graph TD
     startAgentflow_0([🚀 Start])
     style startAgentflow_0 fill:#7EE787,stroke:#333,stroke-width:2px
-    conditionAgentAgentflow_0{&🎯 Intent Router&#}
+    conditionAgentAgentflow_0{{🎯 Intent Router}}
     style conditionAgentAgentflow_0 fill:#ff8fab,stroke:#333,stroke-width:2px
     agentAgentflow_1[🤖 Agent.Express]
     style agentAgentflow_1 fill:#4DD0E1,stroke:#333,stroke-width:2px
